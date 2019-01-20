@@ -1,2 +1,2 @@
 # Scrapers
-Hosting Scrpaer setup for Seren
+Hosting Scrapers setup for Seren
