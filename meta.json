@@ -1,0 +1,7 @@
+{
+  "author": "13Clowns",
+  "version":"0.0.2.3",
+  "name":"CivitasScrapers",
+  "update_directory": "https://raw.githubusercontent.com/13Clowns/_scrapers/master/CivitasScrapers/",
+  "remote_meta": "https://raw.githubusercontent.com/13Clowns/_scrapers/master/CivitasScrapers/meta.json"
+}
